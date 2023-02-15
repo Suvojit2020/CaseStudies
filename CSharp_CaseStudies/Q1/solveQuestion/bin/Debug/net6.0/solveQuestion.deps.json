@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "solveQuestion/1.0.0": {
+        "dependencies": {
+          "record": "1.0.0"
+        },
+        "runtime": {
+          "solveQuestion.dll": {}
+        }
+      },
+      "record/1.0.0": {
+        "runtime": {
+          "record.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "solveQuestion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "record/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

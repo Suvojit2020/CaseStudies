@@ -1,0 +1,12 @@
+D:\.NET\slove\Q5\BankCaseStudy\bin\Debug\net6.0\BankCaseStudy.deps.json
+D:\.NET\slove\Q5\BankCaseStudy\bin\Debug\net6.0\BankCaseStudy.dll
+D:\.NET\slove\Q5\BankCaseStudy\bin\Debug\net6.0\BankCaseStudy.pdb
+D:\.NET\slove\Q5\BankCaseStudy\obj\Debug\net6.0\BankCaseStudy.csproj.AssemblyReference.cache
+D:\.NET\slove\Q5\BankCaseStudy\obj\Debug\net6.0\BankCaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\slove\Q5\BankCaseStudy\obj\Debug\net6.0\BankCaseStudy.AssemblyInfoInputs.cache
+D:\.NET\slove\Q5\BankCaseStudy\obj\Debug\net6.0\BankCaseStudy.AssemblyInfo.cs
+D:\.NET\slove\Q5\BankCaseStudy\obj\Debug\net6.0\BankCaseStudy.csproj.CoreCompileInputs.cache
+D:\.NET\slove\Q5\BankCaseStudy\obj\Debug\net6.0\BankCaseStudy.dll
+D:\.NET\slove\Q5\BankCaseStudy\obj\Debug\net6.0\refint\BankCaseStudy.dll
+D:\.NET\slove\Q5\BankCaseStudy\obj\Debug\net6.0\BankCaseStudy.pdb
+D:\.NET\slove\Q5\BankCaseStudy\obj\Debug\net6.0\ref\BankCaseStudy.dll

@@ -1,0 +1,12 @@
+D:\.NET\slove\Q4\Catalog\bin\Debug\net6.0\Catalog.deps.json
+D:\.NET\slove\Q4\Catalog\bin\Debug\net6.0\Catalog.dll
+D:\.NET\slove\Q4\Catalog\bin\Debug\net6.0\Catalog.pdb
+D:\.NET\slove\Q4\Catalog\obj\Debug\net6.0\Catalog.csproj.AssemblyReference.cache
+D:\.NET\slove\Q4\Catalog\obj\Debug\net6.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\slove\Q4\Catalog\obj\Debug\net6.0\Catalog.AssemblyInfoInputs.cache
+D:\.NET\slove\Q4\Catalog\obj\Debug\net6.0\Catalog.AssemblyInfo.cs
+D:\.NET\slove\Q4\Catalog\obj\Debug\net6.0\Catalog.csproj.CoreCompileInputs.cache
+D:\.NET\slove\Q4\Catalog\obj\Debug\net6.0\Catalog.dll
+D:\.NET\slove\Q4\Catalog\obj\Debug\net6.0\refint\Catalog.dll
+D:\.NET\slove\Q4\Catalog\obj\Debug\net6.0\Catalog.pdb
+D:\.NET\slove\Q4\Catalog\obj\Debug\net6.0\ref\Catalog.dll
